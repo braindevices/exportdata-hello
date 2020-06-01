@@ -1,0 +1,8 @@
+foo:
+  bar: test
+  bar2: 2
+  bar3: what
+# test comment to check if it actually load/dump or direct copy
+foo2:
+  - test1
+  - test2
